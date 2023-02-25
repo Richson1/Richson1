@@ -2,9 +2,9 @@
 
 <h2>👨‍💻   Data Analyst Projects:</h2>
 
-- [TABLEAU](https://public.tableau.com/app/profile/richson.owusu/viz/CanadaCOVID-19Tracker/COVIDTracker?publish=yes)
+- [Canada COVID-19 Project](https://public.tableau.com/app/profile/richson.owusu/viz/CanadaCOVID-19Tracker/COVIDTracker?publish=yes)
 
-- [TABLEAU](https://public.tableau.com/app/profile/richson.owusu/viz/videogame_16742294253000/Dashboard1?publish=yes)
+- [Video Game Project](https://public.tableau.com/app/profile/richson.owusu/viz/videogame_16742294253000/Dashboard1?publish=yes)
 
 - [SQL: CREATE TABLE and INSERT](https://github.com/Richson1/SQL-Code)
 
