@@ -2,7 +2,7 @@
 
 <h2>👨‍💻   Data Analyst Projects:</h2>
 
-- [Canada COVID-19 Project](https://public.tableau.com/app/profile/richson.owusu/viz/CanadaCOVID-19Tracker/COVIDTracker?publish=yes)
+- [COVID-19 Project](https://public.tableau.com/app/profile/richson.owusu/viz/CanadaCOVID-19Tracker/COVIDTracker?publish=yes)
 
 - [Video Game Project](https://public.tableau.com/app/profile/richson.owusu/viz/videogame_16742294253000/Dashboard1?publish=yes)
 
