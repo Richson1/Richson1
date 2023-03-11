@@ -3,10 +3,13 @@
 <h2>👨‍💻   Data Analyst Projects:</h2>
 
 - [COVID-19 Project](https://public.tableau.com/app/profile/richson.owusu/viz/CanadaCOVID-19Tracker/COVIDTracker?publish=yes)
+  
+- [Bike Sales Project](https://github.com/Richson1/Bike-Sales-Project/blob/RichData/Excel%20Project.xlsx) 
 
 - [Video Game Project](https://public.tableau.com/app/profile/richson.owusu/viz/videogame_16742294253000/Dashboard1?publish=yes)
 
 - [SQL: CREATE TABLE and INSERT](https://github.com/Richson1/SQL-Code)
+  
 
 
 
